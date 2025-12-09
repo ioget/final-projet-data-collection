@@ -499,7 +499,7 @@ elif st.session_state.page == "Evaluation Form":
     with tab3:
         st.subheader("App Tutorial")
         
-        st.video("https://drive.google.com/file/d/104Z-Ju8b4LDPnjMkUQRfuY97fIR7PAsG/view?usp=drive_link")
+        st.video("https://drive.google.com/file/d/104Z-Ju8b4LDPnjMkUQRfuY97fIR7PAsG/view")
     crolling=True
         
         
