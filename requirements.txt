@@ -2,9 +2,11 @@ streamlit
 pandas
 numpy
 matplotlib
-scikit-learn
+pydeck
 requests
 beautifulsoup4
 lxml
 Pillow
+geopy
+scikit-learn
 
